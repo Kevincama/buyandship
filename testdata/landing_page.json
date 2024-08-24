@@ -1,0 +1,12 @@
+{
+  "Switch_Region": {
+    "Case_Name": "User switch all regions",
+    "Expect_result": {
+      "urls": ["https://www.buyandship.today/", "https://www.buyandship.today/en/", "https://mo.buynship.com/", "https://www.buyandship.com.tw/", "https://www.buyandship.co.jp/", "https://www.buyandship.com.sg/", "https://www.buyandship.com.my/", "https://www.buyandship.in/", "https://ae.buynship.com/", "https://au.buynship.com/", "https://www.buyandship.ph/", "https://uk.buynship.com/", "https://www.buynship.vn/"],
+      "names": ["香港 - 正體中文", "香港 - English", "澳門 - 正體中文", "台灣 - 正體中文", "日本 - 日本語", "新加坡 - English", "馬來西亞 - English", "印度 - English", "阿聯酋 - English", "澳洲 - English", "菲律賓 - English", "英國 - English", "越南 - Tiếng Việt"]
+    }
+  }
+}
+
+
+
